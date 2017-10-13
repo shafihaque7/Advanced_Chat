@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "887443009830",
+    "firebase_url": "https://chatapp2-a3817.firebaseio.com",
+    "project_id": "chatapp2-a3817",
+    "storage_bucket": "chatapp2-a3817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887443009830:android:d7dd666069799442",
+        "android_client_info": {
+          "package_name": "com.example.shafihaque.real_time_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887443009830-8ms2oftqkds3kikacqfg8a5enudq95jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD777-qqF6wj6ynivjOd_lnnXTsyzmdUY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
