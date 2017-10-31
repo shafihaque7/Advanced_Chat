@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "com.example.shafihaque.real_time_chat"
+        applicationId "com.hicappo.shafihaque.real_time_chat"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

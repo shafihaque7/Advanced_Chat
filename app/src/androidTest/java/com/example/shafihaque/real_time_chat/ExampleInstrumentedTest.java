@@ -1,4 +1,4 @@
-package com.example.shafihaque.real_time_chat;
+package com.hicappo.shafihaque.real_time_chat;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -15,12 +15,12 @@ import static org.junit.Assert.*;
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 @RunWith(AndroidJUnit4.class)
-public class ExampleInstrumentedTest {
+public class hicappoInstrumentedTest {
     @Test
     public void useAppContext() throws Exception {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.shafihaque.real_time_chat", appContext.getPackageName());
+        assertEquals("com.hicappo.shafihaque.real_time_chat", appContext.getPackageName());
     }
 }
